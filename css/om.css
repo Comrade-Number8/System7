@@ -1,6 +1,7 @@
 .beskrivelsesboks {
   background-color: #000000;
   border: 5px solid #a10000;
+  border-radius: 10%;
   padding: 15px;
   margin: 40px;
 }
