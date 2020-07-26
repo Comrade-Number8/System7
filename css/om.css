@@ -1,0 +1,9 @@
+.beskrivelsesboks {
+  background-color: #000000;
+  border: 5px solid #a10000;
+  padding: 15px;
+  margin: 40px;
+}
+.beskrivelsesboks a {
+  color: #008000;
+}
