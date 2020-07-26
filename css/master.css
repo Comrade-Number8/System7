@@ -110,7 +110,7 @@ body {
   margin: 10px;
   padding: 10px;
 }
-.ErrorContent a {color: #008000;}
+.ErrorContent a {color: #00A100;}
 .row:after {
   content: "";
   display: table;
