@@ -1,0 +1,42 @@
+.Dates {
+  color: #161161;
+  text-decoration: none;
+  font-size: 100%;
+  margin-left: 2%;
+  margin-right: 3%;
+}
+.CalendarRow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.CalendarColumn {
+  float: left;
+  width: 25%;
+  margin: 0;
+  padding: 0;
+}
+.CalendarMonth {
+  border: 5px solid #a10000;
+  border-radius: 20px;
+  padding: 1%;
+  margin: 1%;
+  background-color: #000000;
+}
+.MonthName {
+  color: #A100A1;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+.CalendarLogo {
+  color: #A100A1;
+  text-align: center;
+  background-color: #000000;
+  border-radius: 30px;
+  font-size: 200%;
+  padding: 5px 10px 5px 5px;
+  margin-left: 10%;
+  margin-right: 73%;
+  border: 5px solid #a10000;
+}
