@@ -3,14 +3,14 @@ Web Page
 
 Color codes used:
   - Color       - Hex     - RGB         - HSL
- - Black ------ #000000 - 000,000,000 - 000,000,000
- - White ------ #ffffff - 255,255,255 - 000,000,100
- - Blue-dark -- #161161 - 022,017,097 - 244,070,022
- - Blue ------- #0000a1 - 000,000,161 - 240,100,032
- - Red -------- #a10000 - 161,000,000 - 000,100,032
- - Grean ------ #00A100 - 000,161,000 - 120,100,032
- - Pink ------- #A100A1 - 161,000,161 - 300,100,032
+ - Black ------ #000000 - 0,0,0 - 0,0,0
+ - White ------ #ffffff - 255,255,255 - 0,0,100
+ - Blue-dark -- #161161 - 22,17,97 - 244,70,22
+ - Blue ------- #0000a1 - 0,0,161 - 240,100,32
+ - Red -------- #a10000 - 161,0,0 - 0,100,32
+ - Grean ------ #00A100 - 0,161,0 - 120,100,32
+ - Pink ------- #A100A1 - 161,0,161 - 300,100,32
  
   Contact Info
- Instagram: @Comrade_Number8
- Mail: Comrade_Number8@protonmail.com
+ - Instagram: @Comrade_Number8
+ - Mail: Comrade_Number8@protonmail.com
