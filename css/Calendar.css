@@ -5,6 +5,13 @@
   margin-left: 2%;
   margin-right: 3%;
 }
+.Dates.active {
+  color: #00A100;
+  text-decoration: none;
+  font-size: 100%;
+  margin-left: 2%;
+  margin-right: 3%;
+}
 .CalendarRow:after {
   content: "";
   display: table;
