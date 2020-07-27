@@ -31,7 +31,7 @@
 }
 .CalendarLogo {
   color: #A100A1;
-  ::text-align: center;
+  text-align: center;
   background-color: #000000;
   border-radius: 30px;
   font-size: 200%;
