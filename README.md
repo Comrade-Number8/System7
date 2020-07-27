@@ -1,7 +1,7 @@
 # System_7
 Web Page
 
-Color codes used:
+##Color codes used:
   - Color       - Hex     - RGB         - HSL
  - Black ------ #000000 - 0,0,0 - 0,0,0
  - White ------ #ffffff - 255,255,255 - 0,0,100
@@ -11,6 +11,6 @@ Color codes used:
  - Grean ------ #00A100 - 0,161,0 - 120,100,32
  - Pink ------- #A100A1 - 161,0,161 - 300,100,32
  
-  Contact Info
+##Contact Info
  - Instagram: https://www.instagram.com/comrade_number8/
  - Mail: Comrade_Number8@protonmail.com
