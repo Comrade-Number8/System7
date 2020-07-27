@@ -12,5 +12,5 @@ Color codes used:
  - Pink ------- #A100A1 - 161,0,161 - 300,100,32
  
   Contact Info
- - Instagram: @Comrade_Number8
+ - Instagram: https://www.instagram.com/comrade_number8/
  - Mail: Comrade_Number8@protonmail.com
