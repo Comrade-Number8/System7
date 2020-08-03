@@ -1,7 +1,7 @@
 body {
   color: #A100A1;
   background-color: #000000;
-  background-image: url(/System_7/Wallpaper/pride-flag-wallpaper.jpg);
+  background-image: url(/System_7/Images/Wallpaper/pride-flag-wallpaper.jpg);
   margin: 0;
 }
 /* --- Header --- */
@@ -110,7 +110,7 @@ body {
   margin: 10px;
   padding: 10px;
 }
-.ErrorContent a {color: #00A100;}
+.ErrorContent a {color: #00A100; padding: 10px 10px 10px 50px;}
 .row:after {
   content: "";
   display: table;

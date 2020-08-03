@@ -1,0 +1,84 @@
+.Retailers {
+  color: #ffffff;
+  background-color: #000000;
+  display: block;
+  max-width: 100%;
+  height: 200px;
+  padding: 5%;
+  border: 10px solid #a10000;
+  border-radius: 50px;
+  margin: 5%;
+}
+.Retailers-Content-Description {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.Retailers-Content-Description {
+  text-decoration: none;
+  color: #008000;
+  float: right;
+  margin: 5px;
+  position: relative;
+  top: 50%;
+}
+
+.no-gods-no-masters-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.PalestineSolidarityCampaign-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+  border: 20px solid #ffffff;
+  border-radius: 60px;
+}
+.shop161Crew-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.no-borders-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+  border: 20px solid #e2e2e2;
+  border-radius: 60px;
+}
+.O161festival-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.antifa_store-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.true_rebel-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.redstar77-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.mobaction-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.ComradePingu-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
+.CaltonBooks-Image {
+  margin: 5% 5% 0 0;
+  float: right;
+  width: inherit;
+}
