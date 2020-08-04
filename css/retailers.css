@@ -10,7 +10,7 @@
   margin: 5%;
 }
 .Retailers-Content-Description {
-  padding: 5% 0 5% 0;
+  padding: 5%;
   float: left;
   width: 50%;
   height: 100%;
@@ -22,6 +22,10 @@
   margin: 5px;
   position: relative;
   top: 50%;
+}
+img {
+  height: inherit;
+  width: inherit;
 }
 
 .no-gods-no-masters-Image {
