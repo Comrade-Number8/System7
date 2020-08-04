@@ -27,7 +27,7 @@
   margin: 0 5% 0 0;
   float: right;
   width: inherit;
-  height: inherit;
+  max-height: inherit;
 }
 .PalestineSolidarityCampaign-Image {
   margin: 0 5% 0 0;
