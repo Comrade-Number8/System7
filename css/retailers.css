@@ -4,13 +4,12 @@
   display: block;
   max-width: 100%;
   height: 250px;
-  padding: 0 5% 0 5%;
+  padding: 5%;
   border: 10px solid #a10000;
   border-radius: 50px;
   margin: 5%;
 }
 .Retailers-Content-Description {
-  padding: 5%;
   float: left;
   width: 50%;
   height: 100%;
