@@ -41,11 +41,19 @@ img {
   border: 20px solid #ffffff;
   border-radius: 60px;
 }
+.PalestineSolidarityCampaign-Image img {
+  height: -moz-fit-content;
+  width: -moz-fit-content;
+}
 .shop161Crew-Image {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
   height: inherit;
+}
+.shop161Crew-Image img {
+  height: -moz-fit-content;
+  width: -moz-fit-content;
 }
 .no-borders-Image {
   margin: 5% 5% 0 0;
