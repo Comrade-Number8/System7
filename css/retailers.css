@@ -36,8 +36,6 @@ img {
 .PalestineSolidarityCampaign-Image {
   margin: 0 5% 0 0;
   float: right;
-  width: inherit;
-  height: inherit;
   border: 20px solid #ffffff;
   border-radius: 60px;
 }
