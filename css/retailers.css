@@ -26,6 +26,7 @@ img {
   height: inherit;
   width: inherit;
 }
+h2 {color: #a100a1}
 
 .no-gods-no-masters-Image {
   margin: 0 5% 0 0;
@@ -64,16 +65,27 @@ img {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #ffffff;
+}
+.O161festival-Image img {
+  height: 200px;
+  width: auto;
 }
 .antifa_store-Image {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #ffffff;
 }
 .true_rebel-Image {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #ffffff;
+}
+.true_rebel-Image img {
+  height: auto;
+  width: 300px;
 }
 .redstar77-Image {
   margin: 5% 5% 0 0;
@@ -84,14 +96,20 @@ img {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #121117;
 }
 .ComradePingu-Image {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #ffffff;
+}
+.ComradePingu-Image img {
+  width: 212px;
 }
 .CaltonBooks-Image {
   margin: 5% 5% 0 0;
   float: right;
   width: inherit;
+  background-color: #ffffff;
 }
