@@ -9,6 +9,12 @@
   border-radius: 50px;
   margin: 5%;
 }
+.Ret-white {
+  background-color: #ffffff;
+}
+.Ret-gray {
+  background-color: #121117;
+}
 .Retailers-Content-Description {
   float: left;
   width: 50%;
