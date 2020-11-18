@@ -1,7 +1,7 @@
 .artikel {
   background-color: #202020;
-  border: 15px solid #a10000;
-  border-radius: 50px;
+  border: 8px solid #a10000;
+  border-radius: 30px;
 }
 .artikel h3 {
   padding: 0 0 0 30px;
