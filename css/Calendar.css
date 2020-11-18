@@ -1,16 +1,16 @@
 .Dates {
   color: #0000a1;
   text-decoration: none;
-  font-size: 100%;
+  font-size: 15px;
   margin-left: 6px;
   margin-right: 6px;
 }
 .Dates.active {
   color: #00A100;
   text-decoration: none;
-  font-size: 100%;
-  margin-left: 2%;
-  margin-right: 3%;
+  font-size: 15px;
+  margin-left: 6%;
+  margin-right: 6%;
 }
 .CalendarRow:after {
   content: "";
