@@ -1,9 +1,16 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
 .page {
   background-color: #ffffff;
   color: #000000;
 }
 .quotes {
-
+  width: 38%;
+  margin-left: 60%;
 }
 .quote {
   text-align: left;
@@ -11,8 +18,15 @@
 .person {
   text-align: right;
 }
-.text-box-left {}
-.text-box-right {}
+.text-box-left {
+  width: 48%;
+}
+.text-box-right {
+  width: 48%;
+}
 .text {
+  text-decoration: none;
+}
+p {
   text-decoration: none;
 }
