@@ -4,6 +4,9 @@ h1 {
 h3 {
   text-align: center;
 }
+p {
+  font: helvetica;
+}
 .page {
   background-color: #ffffff;
   color: #000000;
