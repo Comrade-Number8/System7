@@ -4,14 +4,23 @@ body {
   background-image: url(/System_7/Images/Wallpaper/pride-flag-wallpaper.jpg);
   margin: 0;
 }
+
 /* --- Header --- */
 .header {
   background-color: #000000;
   color: #a10000;
   text-align: center;
-  font-size: 24px;
-  padding: 24px;
-  height: 25%;
+  /*font-size: 24px;*/
+  padding: 1%;
+  margin: 0;
+}
+.header h1 {
+  font-family: "Lucida Blackletter";
+  font-size: 500%;
+}
+.header h2 {
+  font-family: "against myself";
+  font-size: 200%;
 }
 
 /* --- Navigation Menu --- */
