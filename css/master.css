@@ -17,6 +17,7 @@ body {
 }
 .header h1 {
   font-family: "Lucida Blackletter";
+  text-shadow: 3px 3px 3px purple, 0 0 25px darkred;
   font-size: 500%;
 }
 .header h2 {
