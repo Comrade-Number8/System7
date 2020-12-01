@@ -5,6 +5,10 @@ body {
   margin: 0;
   font-family; "Times New Roman";
 }
+@font-face {
+  font-family: "against myself";
+  src: url("/System_7/Dive/Against Myself.ttf")
+}
 
 /* --- Header --- */
 .header {
