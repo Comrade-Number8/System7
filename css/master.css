@@ -7,7 +7,7 @@ body {
 }
 @font-face {
   font-family: "against myself";
-  src: url("/System_7/Dive/Against_Myself.ttf")
+  src: url(/System_7/Dive/Against_Myself.ttf)
 }
 
 /* --- Header --- */
