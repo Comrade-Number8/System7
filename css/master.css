@@ -129,6 +129,8 @@ body {
   color: #00A100;
   padding: 10px 10px 10px 5px;
 }
+.ErrorContent h1 {margin-left: 10px;}
+.ErrorContent h3 {margin-left: 10px;}
 .row:after {
   content: "";
   display: table;
