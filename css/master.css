@@ -1,9 +1,13 @@
 body {
   color: #A100A1;
   background-color: #000000;
-  background-image: url(/System_7/Images/Wallpaper/pride-flag-wallpaper.jpg);
   margin: 0;
+  background-image: url(/System_7/Images/Wallpaper/pride-flag-wallpaper.jpg);
+  background-position-y: 80%;
   font-family; "Times New Roman";
+}
+.MC-row {
+  
 }
 @font-face {
   font-family: against-myself;
@@ -36,9 +40,9 @@ body {
   clear: both;
 }
 .Menu {
-  background-color: #a10000;
+  background-color: #A10000;
   margin: 0;
-  padding: 0px;
+  padding: 0;
   float: left;
   overflow: hidden;
   height: 15%;
