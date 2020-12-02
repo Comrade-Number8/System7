@@ -9,9 +9,9 @@ body {
 
 }
 @font-face {
-    font-family: 'against myself';
-    src: url('/system_7/dive/againstmyself.woff2') format('woff2'),
-        url('/system_7/dive/againstmyself.woff') format('woff');
+    font-family: "against myself";
+    src: url(/system_7/dive/againstmyself.woff2) format('woff2'),
+        url(/system_7/dive/againstmyself.woff) format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
