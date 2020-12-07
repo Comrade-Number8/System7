@@ -11,16 +11,16 @@ body {
 /* --- Font Face --- */
 @font-face {
     font-family: 'against myself';
-    src: url('/System_7/dive/againstmyself.woff2') format('woff2'),
-        url('/System_7/dive/againstmyself.woff') format('woff');
+    src: url('/System_7/Dive/againstmyself.woff2') format('woff2'),
+        url('/System_7/Dive/againstmyself.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Lucida Blackletter';
-    src: url('/System_7/dive/LucidaBlackletter.woff2') format('woff2'),
-        url('/System_7/dive/LucidaBlackletter.woff') format('woff');
+    src: url('/System_7/Dive/LucidaBlackletter.woff2') format('woff2'),
+        url('/System_7/Dive/LucidaBlackletter.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
