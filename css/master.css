@@ -42,6 +42,7 @@ body {
 }
 .header h2 {
   font-family: "against myself";
+  text-shadow: 3px 3px 3px blueviolet, 0 0 30px darkmagenta;
   font-size: 200%;
 }
 
