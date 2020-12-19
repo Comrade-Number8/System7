@@ -1,22 +1,44 @@
 .terminal {
-  margin: 1%;
-  padding: 1%;
-  background-color: #000000;
+  margin: 10px;
+  padding: 10px;
+  background-color: #323234;
   border: 4px solid red;
-  border-radius: 69px;
+  border-radius: 40px;
+  min-height: 620px;
 }
 .arkive-tree {
   background-color: #000000;
   color: #00A100;
   border: 4px solid #a100a1;
   border-radius: 20px;
-  padding:  1%;
+  padding: 10px;
+  margin: 10px;
+  font-family: "Curier New";
 }
-.con-info {}
-.con-com {}
 .arkive-tree a {
   text-decoration: none;
+  color: #00A100;
   font-family: "Curier New";
+}
+.con-info {
+  border: 4px solid #a100a1;
+  border-radius: 20px;
+  width: 60%;
+  height: 500px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  background-color: #000000;
+}
+.con-com {
+  border: 4px solid #a100a1;
+  border-radius: 20px;
+  width: 30%;
+  height: 500px;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  background-color: #000000;
 }
 .Block-Sanghefte {
   background-color: #000000;
