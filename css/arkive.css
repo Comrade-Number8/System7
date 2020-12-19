@@ -1,0 +1,29 @@
+.terminal {
+  margin: 1%;
+  padding: 1%;
+  background-color: #000000;
+  border: 4px solid red;
+  border-radius: 69px;
+}
+.arkive-tree {
+  background-color: #000000;
+  color: #00A100;
+  border: 4px solid #a100a1;
+  border-radius: 20px;
+  padding:  1%;
+}
+.con-info {}
+.con-com {}
+.arkive-tree a {
+  text-decoration: none;
+  font-family: "Curier New";
+}
+.Block-Sanghefte {
+  background-color: #000000;
+  color: #00A100;
+  border: 5px solid #a100a1;
+  border-radius: 20px;
+}
+.Block-Sanghefte a {
+  text-decoration: none;
+}
