@@ -1,0 +1,19 @@
+.arkive-tree {
+  background-color: #000000;
+  color: #00A100;
+  border: 5px solid #a100a1;
+  border-radius: 20px;
+}
+.arkive-tree a {
+  text-decoration: none;
+  font-family: "Curier New";
+}
+.Block-Sanghefte {
+  background-color: #000000;
+  color: #00A100;
+  border: 5px solid #a100a1;
+  border-radius: 20px;
+}
+.Block-Sanghefte a {
+  text-decoration: none;
+}
