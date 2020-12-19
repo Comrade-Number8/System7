@@ -3,8 +3,9 @@
   padding: 10px;
   background-color: #323234;
   border: 4px solid red;
-  border-radius: 40px;
+  border-radius: 30px;
   min-height: 620px;
+  min-width: 1000px;
 }
 .arkive-tree {
   background-color: #000000;
@@ -15,7 +16,7 @@
   margin: 10px;
   font-family: "Curier New";
 }
-.arkive-tree a {
+* a {
   text-decoration: none;
   color: #00A100;
   font-family: "Curier New";
