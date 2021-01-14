@@ -1,0 +1,10 @@
+.option-ab {
+  float: left;
+  width: 45%;
+  height: 200px;
+  background-color: #000000;
+  border: 5px solid #a10000;
+  border-radius: 20px;
+  margin: 0;
+}
+.option-ab a {text-decoration: none;}
