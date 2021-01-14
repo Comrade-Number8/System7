@@ -7,4 +7,7 @@
   border-radius: 20px;
   margin: 0;
 }
-.option-ab a {text-decoration: none;}
+.option-ab a {
+  text-decoration: none;
+  color: #00A100;
+}
