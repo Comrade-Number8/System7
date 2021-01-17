@@ -52,10 +52,12 @@
 .Block-Sanghefte a {
   text-decoration: none;
 }
-.inf-lef {float: left;}
-.inf-rig {float: right;}
 .line {
   height: 18.5px;
   float: left;
   width: 100%;
+}
+.line-2 {
+  float: right;
+  width: 60%;
 }
