@@ -8,3 +8,93 @@
   padding: 0 0 0 30px;
   font-size: 30px;
 }
+
+.container1 {
+  padding: 40px 0 0 0;
+}
+.row1 {
+  float: left;
+  min-width: 100px;
+  max-width: 24%;
+  width: -moz-available;
+}
+.Free-Palestine {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #a10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.Rojava-Kurdistan {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.Feminism {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.Anonymous {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.LGBTQ {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.BLM {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.ACAB {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.Antifa {
+  text-decoration: none;
+  color: #A100A1;
+  background-color: #000000;
+  padding: 20px 30px 20px 30px;
+  margin: 10px 0 0 30px;
+  border: solid 3px #A10000;
+  border-radius: 20px;
+  font-size: 30px;
+}
