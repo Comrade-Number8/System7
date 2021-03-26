@@ -42,9 +42,9 @@ h2 {color: #a100a1;}
   font-size: 500%;
 }
 .header h2 {
-  font-family: "against myself";
+  font-family: "Liberation Mono";
   text-shadow: 3px 3px 3px blueviolet, 0 0 30px darkmagenta;
-  font-size: 200%;
+  font-size: 250%;
 }
 
 /* --- Navigation Menu --- */
