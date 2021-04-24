@@ -2,7 +2,7 @@ body {
   color: #A100A1;
   background-color: #000000;
   margin: 0;
-  background-image: url(/System_7/Images/Wallpaper/pride-flag-wallpaper.jpg);
+  background-image: url(/System7/Images/Wallpaper/pride-flag-wallpaper.jpg);
   font-family: "Times New Roman";
 }
 h2 {color: #a100a1;}
@@ -12,16 +12,16 @@ h2 {color: #a100a1;}
 /* --- Font Face --- */
 @font-face {
     font-family: 'against myself';
-    src: url('/System_7/Dive/againstmyself.woff2') format('woff2'),
-        url('/System_7/Dive/againstmyself.woff') format('woff');
+    src: url('/System7/Dive/againstmyself.woff2') format('woff2'),
+        url('/System7/Dive/againstmyself.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Lucida Blackletter';
-    src: url('/System_7/Dive/LucidaBlackletter.woff2') format('woff2'),
-        url('/System_7/Dive/LucidaBlackletter.woff') format('woff');
+    src: url('/System7/Dive/LucidaBlackletter.woff2') format('woff2'),
+        url('/System7/Dive/LucidaBlackletter.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
